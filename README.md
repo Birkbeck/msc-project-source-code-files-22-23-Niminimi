@@ -16,7 +16,7 @@ Please try one of the following alternatives:
 2. df_pandas_local = pd.read_csv('all_years_csv.csv', dtype={8: str, 16: str})
 
 # Data Source:
-The dataset for this project is sourced from the GitHub repository maintained by Jack Sackmann:
+The dataset for this project is sourced from the GitHub repository maintained by Jeff Sackmann:
 https://github.com/JeffSackmann/tennis_atp
 
 Note: The CSV file, “all_years_csv.csv”, was created by merging data from the years 1991-2023, as Sackmann's repository provides separate CSV files for each year.
